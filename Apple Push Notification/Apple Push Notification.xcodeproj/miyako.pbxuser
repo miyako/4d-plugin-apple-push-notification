@@ -1,0 +1,255 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* Apple Push Notification */;
+		addToTargets = (
+			8D01CCC60486CAD60068D4B7 /* Apple Push Notification */,
+		);
+		codeSenseManager = D1D50DD2184D461A00E37011 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					316,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 407717391;
+			PBXWorkspaceStateSaveDate = 407717391;
+		};
+		perUserProjectItems = {
+			D1D50DD5184D467200E37011 /* PBXTextBookmark */ = D1D50DD5184D467200E37011 /* PBXTextBookmark */;
+			D1D50DD6184D467200E37011 /* PlistBookmark */ = D1D50DD6184D467200E37011 /* PlistBookmark */;
+			D1D50DD7184D467200E37011 /* PBXBookmark */ = D1D50DD7184D467200E37011 /* PBXBookmark */;
+			D1D50DE9184D47D700E37011 /* PBXTextBookmark */ = D1D50DE9184D47D700E37011 /* PBXTextBookmark */;
+			D1D50DEA184D47D700E37011 /* PBXTextBookmark */ = D1D50DEA184D47D700E37011 /* PBXTextBookmark */;
+			D1D50DF6184D49B400E37011 /* PBXTextBookmark */ = D1D50DF6184D49B400E37011 /* PBXTextBookmark */;
+			D1D50DFC184D49B400E37011 /* PBXTextBookmark */ = D1D50DFC184D49B400E37011 /* PBXTextBookmark */;
+			D1D50E36184D578E00E37011 /* PBXTextBookmark */ = D1D50E36184D578E00E37011 /* PBXTextBookmark */;
+			D1D50E37184D578E00E37011 /* PBXTextBookmark */ = D1D50E37184D578E00E37011 /* PBXTextBookmark */;
+			D1D50E39184D578E00E37011 /* PBXTextBookmark */ = D1D50E39184D578E00E37011 /* PBXTextBookmark */;
+			D1D50E3B184D578E00E37011 /* PBXTextBookmark */ = D1D50E3B184D578E00E37011 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D1D50DD1184D461A00E37011 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {614, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 210}";
+			sepNavWindowFrame = "{{199, 92}, {852, 613}}";
+		};
+	};
+	18B684FE06944F8800CC6A1E /* 4DPlugin.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 4888}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 565}";
+			sepNavWindowFrame = "{{398, 231}, {1004, 647}}";
+		};
+	};
+	8D01CCC60486CAD60068D4B7 /* Apple Push Notification */ = {
+		activeExec = 0;
+	};
+	8D01CCD10486CAD60068D4B7 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{222, 71}, {852, 613}}";
+		};
+	};
+	D120937E13534DCC00A72CAA /* 4DPlugin.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {793, 897}}";
+			sepNavSelRange = "{775, 0}";
+			sepNavVisRange = "{337, 1047}";
+			sepNavWindowFrame = "{{1007, 47}, {852, 613}}";
+		};
+	};
+	D1D50DD1184D461A00E37011 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D1D50DD2184D461A00E37011 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D1D50DD5184D467200E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	D1D50DD6184D467200E37011 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D01CCD10486CAD60068D4B7 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/miyako/Desktop/Apple Push Notification/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	D1D50DD7184D467200E37011 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B684FE06944F8800CC6A1E /* 4DPlugin.cpp */;
+	};
+	D1D50DE9184D47D700E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18B684FE06944F8800CC6A1E /* 4DPlugin.cpp */;
+		name = "4DPlugin.cpp: 10";
+		rLen = 0;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 0;
+	};
+	D1D50DEA184D47D700E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D120937E13534DCC00A72CAA /* 4DPlugin.h */;
+		rLen = 0;
+		rLoc = 9223372036854776878;
+		rType = 0;
+	};
+	D1D50DF6184D49B400E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D1D50DF7184D49B400E37011 /* ssl.h */;
+		rLen = 1;
+		rLoc = 1227;
+		rType = 1;
+	};
+	D1D50DF7184D49B400E37011 /* ssl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ssl.h;
+		path = /Xcode3/SDKs/MacOSX10.4u.sdk/usr/include/openssl/ssl.h;
+		sourceTree = "<absolute>";
+	};
+	D1D50DFC184D49B400E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D1D50DFD184D49B400E37011 /* 4DPlugin.cpp */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	D1D50DFD184D49B400E37011 /* 4DPlugin.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = 4DPlugin.cpp;
+		path = "/Users/miyako/github-miyako/4d-plugin-growl/Growl II/4DPlugin.cpp";
+		sourceTree = "<absolute>";
+	};
+	D1D50E36184D578E00E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18B684FE06944F8800CC6A1E /* 4DPlugin.cpp */;
+		name = "4DPlugin.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 565;
+		vrLoc = 0;
+	};
+	D1D50E37184D578E00E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D1D50E38184D578E00E37011 /* ssl.h */;
+		name = "ssl.h: 1228";
+		rLen = 28;
+		rLoc = 48937;
+		rType = 0;
+		vrLen = 1699;
+		vrLoc = 48028;
+	};
+	D1D50E38184D578E00E37011 /* ssl.h */ = {
+		isa = PBXFileReference;
+		name = ssl.h;
+		path = /Xcode3/SDKs/MacOSX10.4u.sdk/usr/include/openssl/ssl.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 24648}}";
+			sepNavSelRange = "{48937, 28}";
+			sepNavVisRange = "{48028, 1699}";
+			sepNavWindowFrame = "{{84, 197}, {852, 613}}";
+		};
+	};
+	D1D50E39184D578E00E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D1D50E3A184D578E00E37011 /* 4DPlugin.cpp */;
+		name = "4DPlugin.cpp: 15";
+		rLen = 58;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 0;
+	};
+	D1D50E3A184D578E00E37011 /* 4DPlugin.cpp */ = {
+		isa = PBXFileReference;
+		name = 4DPlugin.cpp;
+		path = "/Users/miyako/github-miyako/4d-plugin-growl/Growl II/4DPlugin.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 4121}}";
+			sepNavSelRange = "{325, 58}";
+			sepNavVisRange = "{0, 796}";
+			sepNavWindowFrame = "{{61, 218}, {852, 613}}";
+		};
+	};
+	D1D50E3B184D578E00E37011 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D120937E13534DCC00A72CAA /* 4DPlugin.h */;
+		name = "4DPlugin.h: 31";
+		rLen = 0;
+		rLoc = 775;
+		rType = 0;
+		vrLen = 1047;
+		vrLoc = 337;
+	};
+}
